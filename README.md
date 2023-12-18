@@ -1,1 +1,1 @@
-# diabetesRetinopathy
+# DiabeticRetinopathyDetector
